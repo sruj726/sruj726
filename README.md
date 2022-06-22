@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm SAISRUJAN</h1>
 <h3 align="center">A Passionate learner</h3>
 
-- 🌱 I’m currently learning **python, Django, UI and UX**
+- 🌱 I’m currently learning **python, UI and UX**
 
 - 📫 How to reach me **srujansai0706@gmail.com**
 
